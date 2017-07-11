@@ -1,0 +1,15 @@
+  /*CSS样式初始化：*/
+  /* reset重置 */
+  body,ul,ol,dl,dd,h1,h2,h3,h4,h5,h6,p,input,select,textarea,form,span{margin: 0; padding: 0;}
+  body{font:14px/1.5 "宋体";}
+  img{border:none;}
+  ul,ol{list-style:none;}
+  input,select,textarea,button{outline:none;border:none;background:none;border:none;}
+  textarea{resize:none;}
+  a{text-decoration:none;color:#656565;}
+  /*清浮动*/
+  .clearfix:after{content:"";display:block;clear:both;}
+  .clearfix{zoom:1;}
+  .fl{float: left;}
+  .fr{float: right;}
+
